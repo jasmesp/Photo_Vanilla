@@ -1,0 +1,37 @@
+.myList {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-gap: 1.5rem;
+    font-size: xxx-large;
+    }
+/*.myList{*/
+/*     display: block;*/
+/*     max-width: 100%;*/
+/*     max-height: fit-content;}*/
+#one {
+
+    grid-column: 1 / 1;
+    }
+#two {
+    grid-column: 1 auto;
+
+    }
+#three {
+        grid-column:3 ;
+    grid-row: 3 ;
+    }
+#four {
+    grid-column: 1 auto;
+    grid-row: 2 auto;
+
+    }
+
+.textSpace{
+    display: flex;
+    }
+#homeClick {
+margin-left: auto;
+    margin-right: auto;
+    font-size: xxx-large;
+    }
