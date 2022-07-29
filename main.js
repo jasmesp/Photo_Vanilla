@@ -29,6 +29,15 @@ galleryImage('g2', 13)
 galleryImage('g3', 14)
 galleryImage('large-bird', 15)
 galleryImage('large-bird2', 16)
+//galleryImage('pond1', 17)
+//galleryImage('pond2', 18)
+galleryImage('pond3', 19)
+galleryImage('pond4', 20)
+galleryImage('pond5', 21)
+galleryImage('pond6', 22)
+galleryImage('pond7', 23)
+
+
 
 
 // <div className="gallery">
