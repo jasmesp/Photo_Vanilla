@@ -36,7 +36,7 @@ galleryImage('pond4', 20)
 galleryImage('pond5', 21)
 galleryImage('pond6', 22)
 galleryImage('pond7', 23)
-
+galleryImage('weirdDish', 24)
 
 
 
