@@ -37,7 +37,7 @@ galleryImage('pond5', 21)
 galleryImage('pond6', 22)
 galleryImage('pond7', 23)
 galleryImage('weirdDish', 24)
-
+galleryImage('birdsharp', 25)
 
 
 // <div className="gallery">
