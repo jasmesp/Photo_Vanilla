@@ -13,7 +13,7 @@ function galleryImage(imageID, itemNumber) {
     div.innerHTML = img_src;
 }
 
-galleryImage('dense-stars', 1)
+galleryImage('dense-stars', 26)
 galleryImage('g1', 2)
 galleryImage('dipme', 3)
 galleryImage('astrodad', 4)
@@ -38,7 +38,7 @@ galleryImage('pond6', 22)
 galleryImage('pond7', 23)
 galleryImage('weirdDish', 24)
 galleryImage('birdsharp', 25)
-
+galleryImage('bird-wings-sharp', 1)
 
 // <div className="gallery">
 //  <figure className="galleryItem galleryItem-16">
