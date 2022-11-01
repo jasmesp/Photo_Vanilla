@@ -14,7 +14,7 @@ function galleryImage(imageID, itemNumber) {
 }
 
 galleryImage('dense-stars', 26)
-galleryImage('g1', 2)
+galleryImage('g1', 25)
 galleryImage('dipme', 3)
 galleryImage('astrodad', 4)
 galleryImage('img-0155', 5)
@@ -37,7 +37,7 @@ galleryImage('pond5', 21)
 galleryImage('pond6', 22)
 galleryImage('pond7', 23)
 galleryImage('weirdDish', 24)
-galleryImage('birdsharp', 25)
+galleryImage('birdsharp', 2)
 galleryImage('bird-wings-sharp', 1)
 
 // <div className="gallery">
