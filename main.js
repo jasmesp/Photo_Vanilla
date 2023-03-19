@@ -45,3 +45,18 @@ galleryImage('bird-wings-sharp', 1)
 //   <img src="images/thumbnail/thumb_dense-stars.JPG" className="galleryImg" alt="dense stars" id="12" onClick=fullSize("dense-stars") />
 //  </figure>
 
+const getWord = async () => {
+    const response = await fetch('https://dictionary.jasmes.workers.dev', {
+        method: 'GET',
+        headers: {
+            'Content-Type': 'application/json',
+            'crossorigin': 'anonymous',
+            //'Access-Control-Allow-Origin': ''
+
+        }
+    })
+    const data = await response.json()
+    console.log(data)
+    return data
+
+}
