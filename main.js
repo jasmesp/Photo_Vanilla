@@ -44,3 +44,4 @@ galleryImage('bird-wings-sharp', 1)
 //  <figure className="galleryItem galleryItem-16">
 //   <img src="images/thumbnail/thumb_dense-stars.JPG" className="galleryImg" alt="dense stars" id="12" onClick=fullSize("dense-stars") />
 //  </figure>
+
